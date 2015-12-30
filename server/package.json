@@ -1,0 +1,11 @@
+{
+  "name": "suitsupply",
+  "version": "1.0.0",
+  "description": "Small tasks from Suitsupply",
+  "main": "index.js",
+  "author": "Rusty Rojo",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  }
+}
