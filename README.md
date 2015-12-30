@@ -13,7 +13,6 @@ cd client
 then run 
 
 ```
-#!cmd
 npm install
 ```
 
@@ -24,13 +23,11 @@ then run gulp
 cd server
 
 ```
-#!cmd
 npm install
 ```
 
 then run 
 
 ```
-#!cmd
 node index.js
 ```
